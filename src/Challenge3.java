@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 //Swaping of numbers
-public class Challange3 {
+public class Challenge3 {
 
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
