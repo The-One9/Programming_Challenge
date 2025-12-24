@@ -1,3 +1,5 @@
+package InterviewChallenges;
+
 import java.util.Scanner;
 
 public class Challenge29Fibonacci {

@@ -1,3 +1,5 @@
+package InterviewChallenges;
+
 import java.util.Scanner;
 
 //sum of all odd number
