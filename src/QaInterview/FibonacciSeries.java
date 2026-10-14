@@ -2,14 +2,14 @@ package QaInterview;
 
 public class FibonacciSeries {
     public static void main(String[] args) {
-        int n =10;
-        int a=0,b=1;
-        System.out.print("Fibonacci Series: ");
-        for(int i=0;i<n;i++){
-            System.out.println(a+" ");
-            int next=a+b;
-            a=b;
-            b=next;
-        }
+      int n=6;
+      int a=0,b=1;
+        System.out.println("Fibonacci Serices");
+         for(int i =1;i<n;i++){
+             System.out.println(a+" ");
+             int next=a+b;
+             a=b;
+             b=next;
+         }
     }
 }
